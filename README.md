@@ -48,7 +48,8 @@ It serves as a digital resume and project showcase for recruiters and hiring man
 
 - **Portfolio Website**  
   Responsive personal portfolio hosted using GitHub Pages.
-
+  
+---
 
 ## 📂 Project Structure
 
