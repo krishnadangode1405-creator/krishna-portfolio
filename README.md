@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website showcasing my skills, projects, and professional journey in **Data Analytics, Machine Learning, and AI**.
 
-🚀 **Live Website**: https://YOUR_USERNAME.github.io/krishna-portfolio/
+🚀 **Live Website**: [https://.github.io/krishna-portfolio/](https://krishnadangode1405-creator.github.io/krishna-portfolio/)
 
 ---
 
