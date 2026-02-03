@@ -17,6 +17,16 @@ This portfolio website is designed to present:
 It serves as a digital resume and project showcase for recruiters and hiring managers.
 
 ---
+## 🧠 Skills
+
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (Data querying & analysis)
+- Exploratory Data Analysis (EDA)
+- Power BI (Dashboards & KPIs)
+- Machine Learning (Basics)
+- Git & GitHub
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -27,6 +37,18 @@ It serves as a digital resume and project showcase for recruiters and hiring man
 - jQuery
 
 ---
+
+## 📊 Featured Projects
+
+- **Customer Data Analysis**  
+  Data cleaning, EDA, and Power BI dashboard to extract actionable insights.
+
+- **House Price Prediction**  
+  Built a regression-based ML model to predict house prices using historical data.
+
+- **Portfolio Website**  
+  Responsive personal portfolio hosted using GitHub Pages.
+
 
 ## 📂 Project Structure
 
