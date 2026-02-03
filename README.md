@@ -1,2 +1,54 @@
-# krishna-portfolio
-Personal Portfolio Website showcasing projects, skills, and experience
+# 🌐 Krishna Dangode | Personal Portfolio Website
+
+A modern, responsive personal portfolio website showcasing my skills, projects, and professional journey in **Data Analytics, Machine Learning, and AI**.
+
+🚀 **Live Website**: https://YOUR_USERNAME.github.io/krishna-portfolio/
+
+---
+
+## 📌 About the Project
+
+This portfolio website is designed to present:
+- My technical skills
+- Real-world projects
+- Professional background
+- Contact information
+
+It serves as a digital resume and project showcase for recruiters and hiring managers.
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- jQuery
+
+---
+
+## 📂 Project Structure
+
+
+
+---
+
+## ✨ Features
+
+- Fully responsive design
+- Clean UI and animations
+- Project showcase
+- Contact section
+
+---
+
+## 📬 Contact
+
+- **Name:** Krishna Dangode  
+- **Role:** Data Analyst / Data Scientist  
+- **GitHub:** https://github.com/krishnadangode1405-creator/
+
+---
+
+⭐ If you like this portfolio, don’t forget to star the repository!
