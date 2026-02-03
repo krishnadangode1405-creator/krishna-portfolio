@@ -30,13 +30,13 @@ It serves as a digital resume and project showcase for recruiters and hiring man
 
 ## 📂 Project Structure
 
-index.html
-css/
-js/
-images/
-fonts/
-lib/
-scss/
+- index.html
+- css/
+- js/
+- images/
+- fonts/
+- lib/
+- scss/
 
 ---
 
